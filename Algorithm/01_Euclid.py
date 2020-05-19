@@ -6,3 +6,4 @@ def Euclid(a, b):
         print(b)
 
 Euclid(1633, 355)
+Euclid(5873,30)
