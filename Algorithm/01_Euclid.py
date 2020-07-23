@@ -7,5 +7,3 @@ def Euclid(a, b):
 
 Euclid(1633, 355)
 Euclid(5873,30)
-
-print("Hello")
